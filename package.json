@@ -1,0 +1,28 @@
+{
+  "name": "Schema-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesllenalves/curso-graphQl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesllenalves/curso-graphQl/issues"
+  },
+  "homepage": "https://github.com/wesllenalves/curso-graphQl#readme",
+  "dependencies": {
+    "apollo-server": "^2.13.0",
+    "graphql": "^15.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
